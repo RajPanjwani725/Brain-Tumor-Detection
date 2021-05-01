@@ -1,0 +1,6 @@
+=================Loss and Accuracy=============
+
+Test Loss = 0.3477157381273085
+Test Accuracy = 0.8838709592819214
+F1 (y_test) score: 0.8867924528301887
+F1 (y_validation) score: 0.89375
